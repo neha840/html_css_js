@@ -1,4 +1,4 @@
-# Sign-Language-Deetctor
+# Sign-Language-Detector
 Using TensorFlow to translate Sign Language in real-time. 
 
 
