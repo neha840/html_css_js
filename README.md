@@ -1,4 +1,4 @@
-# Sign-Language-Translator
+# Sign-Language-Deetctor
 Using TensorFlow to translate Sign Language in real-time. 
 
 
@@ -11,9 +11,9 @@ Using TensorFlow to translate Sign Language in real-time.
 - [x] Video Call functionality
 - [x] Text to Speech of translated text
 - [x] Minimal stress on memory
-- [x] Cohesive Text Styling
+
 - [x] Simple User Interface
-- [x] Comprehensive Commenting
+
 
 
 
